@@ -4,6 +4,9 @@ qsort: llist.o qsort.c
 msort: llist.o msort.c
 	gcc msort.c llist.o -o msort
 
+rsort: llist.o rsort.c
+	gcc rsort.c llist.o -o rsort
+
 debug: dllist.o msort.c
 	gcc -g msort.c llist.o -o msort
 
