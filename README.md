@@ -1,10 +1,11 @@
 # CS-251-Linked-List
-a linked list library that includes example implementation of merge sort and quick sort.
+a linked list library that includes example implementation of merge sort, quick sort and radix sort.
 
 ### How to make the binaries
 ```
 make qsort
 make msort
+make rsort
 ```
 
 ### Running the binaries
