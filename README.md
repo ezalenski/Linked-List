@@ -1,4 +1,4 @@
-# CS-251-Linked-List
+# Linked-List
 a linked list library that includes example implementation of merge sort, quick sort and radix sort.
 
 ### How to make the binaries
